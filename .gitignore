@@ -1,0 +1,8 @@
+# Compiled programs
+*.exe
+*.out
+Bank
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
