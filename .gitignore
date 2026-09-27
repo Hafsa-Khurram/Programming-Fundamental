@@ -1,6 +1,7 @@
 # Compiled programs
 *.exe
 *.out
+*.zip
 Bank
 
 # Editor / OS files
